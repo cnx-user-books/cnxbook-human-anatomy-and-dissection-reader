@@ -1,0 +1,353 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col11840</md:content-id>
+  <md:title>Human Anatomy and Dissection Reader</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  
+  
+  
+
+  <md:uuid>8ae5fae0-cded-4bc1-ad9c-73071731a943</md:uuid>
+<md:slug>human-anatomy-and-dissection-reader</md:slug>
+</metadata>
+
+  <col:content>
+    
+      
+        
+      <col:subcollection>
+        <md:title>Lab Reference</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m56454"/>
+        
+      
+    
+    
+      <col:module document="m56458"/>
+        
+      
+    
+    
+      <col:module document="m56462"/>
+        
+      
+    
+    
+      <col:module document="m56461"/>
+        
+      
+    
+    
+      <col:module document="m56705"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Bone</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m56468"/>
+        
+      
+    
+    
+      <col:module document="m56150"/>
+        
+      
+    
+    
+      <col:module document="m56136"/>
+        
+      
+    
+    
+      <col:module document="m56135"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Epithelial and Connective Tissue</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m56110"/>
+        
+      
+    
+    
+      <col:module document="m56118"/>
+        
+      
+    
+    
+      <col:module document="m56650"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Integument</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m56111"/>
+        
+      
+    
+    
+      <col:module document="m56121"/>
+        
+      
+    
+    
+      <col:module document="m56122"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Joints</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m56670"/>
+        
+      
+    
+    
+      <col:module document="m56664"/>
+        
+      
+    
+    
+      <col:module document="m56690"/>
+        
+      
+    
+    
+      <col:module document="m56676"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Muscle</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m56196"/>
+        
+      
+    
+    
+      <col:module document="m56201"/>
+        
+      
+    
+    
+      <col:module document="m56183"/>
+        
+      
+    
+    
+      <col:module document="m56171"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Circulation</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m56696"/>
+        
+      
+    
+    
+      <col:module document="m56716"/>
+        
+      
+    
+    
+      <col:module document="m56725"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Digestion</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m56722"/>
+        
+      
+    
+    
+      <col:module document="m56733"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Autonomic Nervous System</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m56683"/>
+        
+      
+    
+    
+      <col:module document="m56693"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Lymphatic System</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m56243"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Pregnancy</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m56433"/>
+        
+      
+    
+    
+      <col:module document="m56439"/>
+        
+      
+    
+    
+      <col:module document="m56446"/>
+        
+      
+    
+    
+      <col:module document="m56447"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+  </col:content>
+</col:collection>

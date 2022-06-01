@@ -1,0 +1,37 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Fetal Circulation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m56716</md:content-id>
+  <md:title>Fetal Circulation</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the development of blood vessels</item>
+<item>Describe the fetal circulation</item>
+</list></md:abstract>
+  <md:uuid>3c78bd8f-d8e7-405f-91ee-3d3fbe2e1140</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id3282364">As the embryo grows within the mother’s uterus, its requirements for nutrients and gas exchange also grow. The placenta—a circulatory organ unique to pregnancy—develops jointly from the embryo and uterine wall structures to fill this need. Emerging from the placenta is the <term>umbilical vein</term>, which carries oxygen-rich blood from the mother to the fetal inferior vena cava via the ductus venosus to the heart that pumps it into fetal circulation. Two <term>umbilical arteries</term> carry oxygen-depleted fetal blood, including wastes and carbon dioxide, to the placenta. Remnants of the umbilical arteries remain in the adult. (Seek additional content for more information on the role of the placenta in fetal circulation.)</para>
+<para id="fs-id1766849">There are three major shunts—alternate paths for blood flow—found in the circulatory system of the fetus. Two of these shunts divert blood from the pulmonary to the systemic circuit, whereas the third connects the umbilical vein to the inferior vena cava. The first two shunts are critical during fetal life, when the lungs are compressed, filled with amniotic fluid, and nonfunctional, and gas exchange is provided by the placenta. These shunts close shortly after birth, however, when the newborn begins to breathe. The third shunt persists a bit longer but becomes nonfunctional once the umbilical cord is severed. The three shunts are as follows (<link target-id="fig-ch21_06_01" document=""/>):</para>
+<list id="fs-id1551956" list-type="bulleted"><item>The <term>foramen ovale</term> is an opening in the interatrial septum that allows blood to flow from the right atrium to the left atrium. A valve associated with this opening prevents backflow of blood during the fetal period. As the newborn begins to breathe and blood pressure in the atria increases, this shunt closes. The fossa ovalis remains in the interatrial septum after birth, marking the location of the former foramen ovale.</item>
+<item>The <term>ductus arteriosus</term> is a short, muscular vessel that connects the pulmonary trunk to the aorta. Most of the blood pumped from the right ventricle into the pulmonary trunk is thereby diverted into the aorta. Only enough blood reaches the fetal lungs to maintain the developing lung tissue. When the newborn takes the first breath, pressure within the lungs drops dramatically, and both the lungs and the pulmonary vessels expand. As the amount of oxygen increases, the smooth muscles in the wall of the ductus arteriosus constrict, sealing off the passage. Eventually, the muscular and endothelial components of the ductus arteriosus degenerate, leaving only the connective tissue component of the ligamentum arteriosum.</item>
+<item>The <term>ductus venosus</term> is a temporary blood vessel that branches from the umbilical vein, allowing much of the freshly oxygenated blood from the placenta—the organ of gas exchange between the mother and fetus—to bypass the fetal liver and go directly to the fetal heart. The ductus venosus closes slowly during the first weeks of infancy and degenerates to become the ligamentum venosum.</item>
+</list><figure id="fig-ch21_06_01"><title>Fetal Shunts </title><media id="fs-id2154552" alt="This figure shows the blood vessels in a fetus.">
+<image mime-type="image/jpg" src="../../media/2139_Fetal_Circulation.jpg" width="495"/>
+</media>
+<caption>The foramen ovale in the interatrial septum allows blood to flow from the right atrium to the left atrium. The ductus arteriosus is a temporary vessel, connecting the aorta to the pulmonary trunk. The ductus venosus links the umbilical vein to the inferior vena cava largely through the liver.</caption></figure></content>
+<glossary>
+<definition id="fs-id1372217"><term>angioblasts</term> <meaning id="fs-id2175105">stem cells that give rise to blood vessels</meaning></definition>
+<definition id="fs-id1695210"><term>angiogenesis</term> <meaning id="fs-id1403964">development of new blood vessels from existing vessels</meaning></definition>
+<definition id="fs-id1862433"><term>blood islands</term> <meaning id="fs-id1936592">masses of developing blood vessels and formed elements from mesodermal cells scattered throughout the embryonic disc</meaning></definition>
+<definition id="fs-id1310805"><term>ductus arteriosus</term> <meaning id="fs-id1636682">shunt in the fetal pulmonary trunk that diverts oxygenated blood back to the aorta</meaning></definition>
+<definition id="fs-id2174015"><term>ductus venosus</term> <meaning id="fs-id2882653">shunt that causes oxygenated blood to bypass the fetal liver on its way to the inferior vena cava</meaning></definition>
+<definition id="fs-id1766322"><term>foramen ovale</term> <meaning id="fs-id1397267">shunt that directly connects the right and left atria and helps to divert oxygenated blood from the fetal pulmonary circuit</meaning></definition>
+<definition id="fs-id2114923"><term>hemangioblasts</term> <meaning id="fs-id1446812">embryonic stem cells that appear in the mesoderm and give rise to both angioblasts and pluripotent stem cells</meaning></definition>
+<definition id="fs-id2482018"><term>umbilical arteries</term> <meaning id="fs-id2153875">pair of vessels that runs within the umbilical cord and carries fetal blood low in oxygen and high in waste to the placenta for exchange with maternal blood</meaning></definition>
+<definition id="fs-id2160463"><term>umbilical vein</term> <meaning id="fs-id2609846">single vessel that originates in the placenta and runs within the umbilical cord, carrying oxygen- and nutrient-rich blood to the fetal heart</meaning></definition>
+<definition id="fs-id2680053"><term>vascular tubes</term> <meaning id="fs-id2159787">rudimentary blood vessels in a developing fetus</meaning></definition>
+</glossary>
+</document>

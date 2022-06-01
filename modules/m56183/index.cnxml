@@ -1,0 +1,47 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Motor Units</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m56183</md:content-id>
+  <md:title>Motor Units</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain concentric, isotonic, and eccentric contractions</item>
+<item>Describe the length-tension relationship</item>
+<item>Describe the three phases of a muscle twitch</item>
+<item>Define wave summation, tetanus, and treppe</item>
+</list></md:abstract>
+  <md:uuid>e32e45a8-7cf1-4505-b898-22b3795d6aed</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id2125273">
+<title>Motor Units</title>
+<para id="fs-id2131675">As you have learned, every skeletal muscle fiber must be innervated by the axon terminal of a motor neuron in order to contract. Each muscle fiber is innervated by only one motor neuron. The actual group of muscle fibers in a muscle innervated by a single motor neuron is called a <term>motor unit</term>. The size of a motor unit is variable depending on the nature of the muscle.</para>
+<para id="fs-id1861281">A small motor unit is an arrangement where a single motor neuron supplies a small number of muscle fibers in a muscle. Small motor units permit very fine motor control of the muscle. The best example in humans is the small motor units of the extraocular eye muscles that move the eyeballs. There are thousands of muscle fibers in each muscle, but every six or so fibers are supplied by a single motor neuron, as the axons branch to form synaptic connections at their individual NMJs. This allows for exquisite control of eye movements so that both eyes can quickly focus on the same object. Small motor units are also involved in the many fine movements of the fingers and thumb of the hand for grasping, texting, etc.</para>
+<para id="fs-id2228947">A large motor unit is an arrangement where a single motor neuron supplies a large number of muscle fibers in a muscle. Large motor units are concerned with simple, or “gross,” movements, such as powerfully extending the knee joint. The best example is the large motor units of the thigh muscles or back muscles, where a single motor neuron will supply thousands of muscle fibers in a muscle, as its axon splits into thousands of branches.</para>
+<para id="fs-id2052802">There is a wide range of motor units within many skeletal muscles, which gives the nervous system a wide range of control over the muscle. The small motor units in the muscle will have smaller, lower-threshold motor neurons that are more excitable, firing first to their skeletal muscle fibers, which also tend to be the smallest. Activation of these smaller motor units, results in a relatively small degree of contractile strength (tension) generated in the muscle. As more strength is needed, larger motor units, with bigger, higher-threshold motor neurons are enlisted to activate larger muscle fibers. This increasing activation of motor units produces an increase in muscle contraction known as <term>recruitment</term>. As more motor units are recruited, the muscle contraction grows progressively stronger. In some muscles, the largest motor units may generate a contractile force of 50 times more than the smallest motor units in the muscle. This allows a feather to be picked up using the biceps brachii arm muscle with minimal force, and a heavy weight to be lifted by the same muscle by recruiting the largest motor units.</para>
+<para id="fs-id1968479">When necessary, the maximal number of motor units in a muscle can be recruited simultaneously, producing the maximum force of contraction for that muscle, but this cannot last for very long because of the energy requirements to sustain the contraction. To prevent complete muscle fatigue, motor units are generally not all simultaneously active, but instead some motor units rest while others are active, which allows for longer muscle contractions. The nervous system uses recruitment as a mechanism to efficiently utilize a skeletal muscle.</para></section>
+</content>
+<glossary>
+<definition id="fs-id1841712"><term>concentric contraction</term> <meaning id="fs-id1487685">muscle contraction that shortens the muscle to move a load</meaning></definition>
+<definition id="fs-id1227269"><term>contraction phase</term> <meaning id="fs-id1700679">twitch contraction phase when tension increases</meaning></definition>
+<definition id="fs-id2228511"><term>eccentric contraction</term> <meaning id="fs-id2078512">muscle contraction that lengthens the muscle as the tension is diminished</meaning></definition>
+<definition id="fs-id1435759"><term>graded muscle response</term> <meaning id="fs-id2265894">modification of contraction strength</meaning></definition>
+<definition id="fs-id2154323"><term>hypertonia</term> <meaning id="fs-id2272019">abnormally high muscle tone</meaning></definition>
+<definition id="fs-id2346861"><term>hypotonia</term> <meaning id="fs-id2310376">abnormally low muscle tone caused by the absence of low-level contractions</meaning></definition>
+<definition id="fs-id1237773"><term>isometric contraction</term> <meaning id="fs-id1858066">muscle contraction that occurs with no change in muscle length</meaning></definition>
+<definition id="fs-id1700686"><term>isotonic contraction</term> <meaning id="fs-id2251758">muscle contraction that involves changes in muscle length</meaning></definition>
+<definition id="fs-id1851018"><term>latent period</term> <meaning id="fs-id1247093">the time when a twitch does not produce contraction</meaning></definition>
+<definition id="fs-id2349496"><term>motor unit</term> <meaning id="fs-id1416491">motor neuron and the group of muscle fibers it innervates</meaning></definition>
+<definition id="fs-id933674"><term>muscle tension</term> <meaning id="fs-id1296892">force generated by the contraction of the muscle; tension generated during isotonic contractions and isometric contractions</meaning></definition>
+<definition id="fs-id2200393"><term>muscle tone</term> <meaning id="fs-id1387638">low levels of muscle contraction that occur when a muscle is not producing movement</meaning></definition>
+<definition id="fs-id1720336"><term>myogram</term> <meaning id="fs-id2396754">instrument used to measure twitch tension</meaning></definition>
+<definition id="fs-id2159129"><term>recruitment</term> <meaning id="fs-id2346865">increase in the number of motor units involved in contraction</meaning></definition>
+<definition id="fs-id2307478"><term>relaxation phase</term> <meaning id="fs-id1380925">period after twitch contraction when tension decreases</meaning></definition>
+<definition id="fs-id2020210"><term>tetanus</term> <meaning id="fs-id1380785">a continuous fused contraction</meaning></definition>
+<definition id="fs-id1415538"><term>treppe</term> <meaning id="fs-id2238015">stepwise increase in contraction tension</meaning></definition>
+<definition id="fs-id1865704"><term>twitch</term> <meaning id="fs-id1854620">single contraction produced by one action potential</meaning></definition>
+<definition id="fs-id1354586"><term>wave summation</term> <meaning id="fs-id2271132">addition of successive neural stimuli to produce greater contraction</meaning></definition>
+</glossary>
+</document>
